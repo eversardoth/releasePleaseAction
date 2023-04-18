@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/eversardoth/releasePleaseAction/compare/v2.0.0...v3.0.0) (2023-04-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* ever
+
+### Features
+
+* ever ([7716d4f](https://github.com/eversardoth/releasePleaseAction/commit/7716d4fec8daefdf65314190912b1a7d02ae0d54))
+
 ## [2.0.0](https://github.com/eversardoth/releasePleaseAction/compare/v1.1.0...v2.0.0) (2023-04-18)
 
 
