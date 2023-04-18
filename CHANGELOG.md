@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/eversardoth/releasePleaseAction/compare/v4.0.0...v4.1.0) (2023-04-18)
+
+
+### Features
+
+* ever ([38a19f4](https://github.com/eversardoth/releasePleaseAction/commit/38a19f4ad1ef08236eaa40e1e9f2c9c214efb9d0))
+
 ## [4.0.0](https://github.com/eversardoth/releasePleaseAction/compare/v3.0.0...v4.0.0) (2023-04-18)
 
 
